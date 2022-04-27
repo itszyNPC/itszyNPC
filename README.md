@@ -6,7 +6,7 @@ Hi there :3
 + I like code =)
 - currently studying computer science
 seeking for a position of intern
-! 19y
+! 17y
 # thanks for reading ... <3
 
 ```
