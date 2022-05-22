@@ -21,6 +21,6 @@ seeking for a position of intern
 ```bash
 ~ > git config user.email
 
-codewith@ditzzsenpai.wtf
+syndicate@flyo.cf
 
 ```
